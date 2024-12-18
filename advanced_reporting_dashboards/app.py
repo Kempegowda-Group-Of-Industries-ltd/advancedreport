@@ -90,48 +90,13 @@ else:
     st.sidebar.info("Please upload a CSV file to get started.")
     st.write("Awaiting file upload...")
 
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Access AVANI]({url})", unsafe_allow_html=True)
+
+
 # Footer
 st.markdown("""<hr>
-    <small>Developed by Your Name. Powered by Streamlit.</small>
+    <small>Developed by Your K G I . Powered by Streamlit.</small>
     """, unsafe_allow_html=True)
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
-
-url = "https://support-ticke.streamlit.app/"
-st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
-
