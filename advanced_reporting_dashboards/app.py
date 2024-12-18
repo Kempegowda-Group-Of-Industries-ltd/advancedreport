@@ -95,6 +95,22 @@ else:
 url = "https://avanii.streamlit.app/"
 st.markdown(f"[Access AVANI]({url})", unsafe_allow_html=True)
 
+url = "https://finacle.streamlit.app/"
+st.markdown(f"[Access Finacle ]({url})", unsafe_allow_html=True)
+
+url = "https://kgi-financecalculator.streamlit.app/"
+st.markdown(f"[Access CALCULATOR ]({url})", unsafe_allow_html=True)
+
+url = "https://kgi-manager.streamlit.app/"
+st.markdown(f"[Access TASK MANAGER ]({url})", unsafe_allow_html=True)
+
+url = "https://kgi-stock-market-tracker.streamlit.app/"
+st.markdown(f"[Access STOCK MARKET ]({url})", unsafe_allow_html=True)
+
+url = "https://multilocation.streamlit.app/"
+st.markdown(f"[Access AVANI]({url})", unsafe_allow_html=True)
+
+
 
 # Footer
 st.markdown("""<hr>
