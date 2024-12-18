@@ -92,3 +92,6 @@ else:
 st.markdown("""<hr>
     <small>Developed by Your Name. Powered by Streamlit.</small>
     """, unsafe_allow_html=True)
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
