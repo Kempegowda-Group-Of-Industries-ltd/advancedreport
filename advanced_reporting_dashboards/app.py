@@ -110,7 +110,7 @@ url = "https://kgi-stock-market-tracker.streamlit.app/"
 st.markdown(f"[Access STOCK MARKET ]({url})", unsafe_allow_html=True)
 
 url = "https://multilocation.streamlit.app/"
-st.markdown(f"[Access AVANI]({url})", unsafe_allow_html=True)
+st.markdown(f"[Access MULTILOACTION]({url})", unsafe_allow_html=True)
 
 
 
