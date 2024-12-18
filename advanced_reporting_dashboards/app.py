@@ -5,14 +5,16 @@ import plotly.express as px
 
 # Set page configuration
 st.set_page_config(
-    page_title="Advanced Reporting & Dashboards",
+    page_title="Nidhi",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Title and description
-st.title("📊 Advanced Reporting & Dashboards")
-st.write("Gain insights into your inventory and supply chain performance by uploading your data.")
+# st.title("📊 Advanced Reporting & Dashboards")
+# st.write("Gain insights into your inventory and supply chain performance by uploading your data.")
+st.title("💎 NIDHI: Next-Generation Intelligent Analytics")  
+st.write("Unlock the treasure of insights from your inventory and supply chain by uploading your data.")  
 
 # Sidebar header
 st.sidebar.header("File Upload Section")
@@ -95,3 +97,41 @@ st.markdown("""<hr>
 
 url = "https://support-ticke.streamlit.app/"
 st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
+
+url = "https://support-ticke.streamlit.app/"
+st.markdown(f"[Learn More and Access AVANI]({url})", unsafe_allow_html=True)
+
