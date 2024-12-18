@@ -92,7 +92,7 @@ else:
 
 
 
-url = "https://support-ticke.streamlit.app/"
+url = "https://avanii.streamlit.app/"
 st.markdown(f"[Access AVANI]({url})", unsafe_allow_html=True)
 
 
