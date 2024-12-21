@@ -112,7 +112,11 @@ st.markdown(f"[Access STOCK MARKET ]({url})", unsafe_allow_html=True)
 url = "https://multilocation.streamlit.app/"
 st.markdown(f"[Access MULTILOACTION]({url})", unsafe_allow_html=True)
 
+url = "https://sankalp.streamlit.app/"
+st.markdown(f"[Access SANKALP]({url})", unsafe_allow_html=True)
 
+url = "https://sandra.streamlit.app/"
+st.markdown(f"[Access Sandra]({url})", unsafe_allow_html=True)
 
 # Footer
 st.markdown("""<hr>
